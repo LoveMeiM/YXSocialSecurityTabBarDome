@@ -4,6 +4,7 @@
 
 界面效果图为：
 
-[社保](https://github.com/LoveMeiM/YXSocialSecurityTabBarDome/row/master/社保.gif)
+![社保](https://github.com/LoveMeiM/YXSocialSecurityTabBarDome/raw/master/社保.gif)
 
 喜欢的话，请star一下。
+
